@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 170000,
+      "id": 1,
+      "title": "Lenovo ideapad Flex 5",
+      "imagen": "/img/Lenovoideapad flex 5.jpg"
+    },
+    {
+      "precio": 340000,
+      "id": 2,
+      "title": "MAcbook pro 14",
+      "imagen": "/img/Mac book Air.jpg"
+    },
+    {
+      "precio": 230000,
+      "id": 3,
+      "title": "Iphone 13",
+      "imagen": "/img/840_560.jpg"
+    },
+    {
+      "precio": 120000,
+      "id": 4,
+      "title": "Xiaomi mi 11",
+      "imagen": "/img/Xiaomi mi 11.jpeg"
+    },
+    {
+      "precio": 150000,
+      "id": 5,
+      "title": "Dron",
+      "imagen": "/img/Dron.jpg"
+    },
+    {
+      "precio": 40000,
+      "id": 6,
+      "title": "Auriculares Sony",
+      "imagen": "/img/auriculares sony.jpg"
+    }
+  ]
